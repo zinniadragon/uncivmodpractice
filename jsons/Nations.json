@@ -1,12 +1,12 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Kalenites",
+		"leaderName": "derandi",
+		"adjective": ["head chieftain"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Conquest",
 		
-		"startIntroPart1": "We come in peace!",
+		"startIntroPart1": "  tagerat   ",
 		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
 		
 		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
