@@ -6,13 +6,13 @@
 		"startBias": ["Hill"],
 		"preferredVictoryType": "Conquest",
 		
-		"startIntroPart1": "  tagerat   ",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "",
+		"startIntroPart2": "",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "unleash the war boars!",
+		"attacked": "really prepare to be crushed!",
+		"defeated": "hooooow did yououou defeat our mighty arm...",
+		"introduction": "hmm?!",
 		
 		"neutralHello": "How are you doing?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
