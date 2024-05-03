@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Warboar",
-		"unitType": "Mellee",
+		"unitType": "Melee",
 		"uniqueTo": "Kalenites",
 		"replaces": "Knight",
 		"movement": 2,
