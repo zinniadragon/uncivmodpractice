@@ -7,8 +7,8 @@
 		"movement": 2,
 		"strength": 25,
 		"cost": 120,
-		"requiredTech": "Chivary",
-		"promotions": ["Shock 1","shock 2"],
+		"requiredTech": "Chivalry",
+		"promotions": [""],
 		"attackSound": "clang"
 	}
 ]
