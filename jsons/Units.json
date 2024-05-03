@@ -10,5 +10,6 @@
 		"requiredTech": "Chivalry",
 		"promotions": [""],
 		"attackSound": "Clang"
+		"movementType": "Land"
 	}
 ]
