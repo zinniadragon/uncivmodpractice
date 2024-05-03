@@ -2,7 +2,7 @@
 	{
 		"name": "Warboar",
 		"unitType": "Mellee",
-		"uniqueTo": "kalenites",
+		"uniqueTo": "Kalenites",
 		"replaces": "Knight",
 		"movement": 2,
 		"strength": 25,
