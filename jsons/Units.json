@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Warboar",
-		"unitType": "Melee",
+		"unitType": "Mounted",
 		"uniqueTo": "Kalenites",
 		"replaces": "Knight",
 		"movement": 2,
@@ -9,7 +9,7 @@
 		"cost": 120,
 		"requiredTech": "Chivalry",
 		"promotions": [""],
-		"attackSound": "Clang"
+		"attackSound": "Sword"
 		"movementType": "Land"
 	}
 ]
