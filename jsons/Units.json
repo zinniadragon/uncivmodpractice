@@ -3,12 +3,12 @@
 		"name": "Warboar",
 		"unitType": "Mellee",
 		"uniqueTo": "kalenites",
-		"replaces": "knight",
+		"replaces": "Knight",
 		"movement": 2,
 		"strength": 25,
 		"cost": 120,
 		"requiredTech": "Chivalry",
 		"promotions": [""],
-		"attackSound": "clang"
+		"attackSound": "Clang"
 	}
 ]
